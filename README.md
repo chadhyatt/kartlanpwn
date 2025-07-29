@@ -1,11 +1,4 @@
-[latte]: https://latte.to
-[discord]: https://latte.to/discord
-[badges/latte]: https://img.shields.io/badge/https%3A%2F%2Flatte.to-2980b9?style=flat
-[badges/discord]: https://img.shields.io/discord/892211155303538748?label=Latte%20Softworks%20Discord&logo=discord&logoColor=FFFFFF&color=5865F2
-
 # Kart"LAN"Pwn ([CVE-2024-45200](https://nvd.nist.gov/vuln/detail/CVE-2024-45200))
-
-[![Latte Softworks Website][badges/latte]][latte] [![Latte Softworks Discord][badges/discord]][discord]
 
 Information & Proof-of-Concept for Mario Kart 8 Deluxe's "KartLANPwn" stack-based buffer overflow vulnerability<br>
 Written by [@regginator](https://github.com/regginator)
@@ -165,8 +158,6 @@ To view a copy of this license, visit <https://creativecommons.org/licenses/by/4
 ___
 
 <div align="center">
-
-*<sub>This gif was created on July 3rd, 2024:</sub>*
 
 <img width="345" src="assets/lan.gif" alt="Evil LAN-play error..">
 
