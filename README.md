@@ -1,7 +1,7 @@
 # Kart"LAN"Pwn ([CVE-2024-45200](https://nvd.nist.gov/vuln/detail/CVE-2024-45200))
 
 Information & Proof-of-Concept for Mario Kart 8 Deluxe's "KartLANPwn" stack-based buffer overflow vulnerability<br>
-Written by [@regginator](https://github.com/regginator)
+Written by [Chad Hyatt](https://github.com/chadhyatt)
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Nintendo most definitely learned their lesson per se from the simpler days of th
 
 ## Credits
 
-* Discoverer: [reggie](https://github.com/regginator)
+* Discoverer: [Chad Hyatt](https://github.com/chadhyatt)
 * Great help & a huge thanks: [PabloMK7](https://github.com/PabloMK7), [fishguy6564](https://github.com/fishguy6564)
 * Emotional support 🙃: [Justus](https://github.com/0xJustus), [Sky](https://github.com/cfwsky)
 
@@ -152,7 +152,7 @@ Nintendo most definitely learned their lesson per se from the simpler days of th
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-[KartLANPwn](https://github.com/latte-soft/kartlanpwn) © 2024 by reggie (<reggie@latte.to>), Latte Softworks (<https://latte.to>) is licensed under CC BY 4.0.<br>
+[KartLANPwn](https://github.com/latte-soft/kartlanpwn) © 2024 is licensed under CC BY 4.0.<br>
 To view a copy of this license, visit <https://creativecommons.org/licenses/by/4.0/>
 
 ___
